@@ -1,0 +1,69 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/cancer-neoplasia---primary.py
+inputModule3:
+  class: File
+  path: python/large-cancer---primary.py
+inputModule4:
+  class: File
+  path: python/cancer-stomach---primary.py
+inputModule5:
+  class: File
+  path: python/sigmoid-cancer---primary.py
+inputModule6:
+  class: File
+  path: python/cancer-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/cancer-appendix---primary.py
+inputModule8:
+  class: File
+  path: python/cancer-rectum---primary.py
+inputModule9:
+  class: File
+  path: python/cancer-carcinoma---primary.py
+inputModule10:
+  class: File
+  path: python/prostatic-cancer---primary.py
+inputModule11:
+  class: File
+  path: python/cancer-colon---primary.py
+inputModule12:
+  class: File
+  path: python/cancer-caecum---primary.py
+inputModule13:
+  class: File
+  path: python/cancer-ascending---primary.py
+inputModule14:
+  class: File
+  path: python/cancer-grade---primary.py
+inputModule15:
+  class: File
+  path: python/cancer-transverse---primary.py
+inputModule16:
+  class: File
+  path: python/hepatic-cancer---primary.py
+inputModule17:
+  class: File
+  path: python/ectopic-cancer---primary.py
+inputModule18:
+  class: File
+  path: python/cancer-lesion---primary.py
+inputModule19:
+  class: File
+  path: python/cancer-breast---primary.py
+inputModule20:
+  class: File
+  path: python/female-cancer---primary.py
+inputModule21:
+  class: File
+  path: python/splenic-cancer---primary.py
+inputModule22:
+  class: File
+  path: python/cancer---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
